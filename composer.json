@@ -1,0 +1,17 @@
+{
+    "name": "ychabot/testing-jenkins",
+    "autoload": {
+        "psr-4": {
+            "Ychabot\\TestingJenkins\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "YannC",
+            "email": "yannchabot@hotmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^5.5"
+    }
+}
